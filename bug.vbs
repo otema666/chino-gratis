@@ -1,0 +1,4 @@
+Dim speaks, speech
+speaks="CHINO, HAY UN ERROR EN TU CHINO DISCO, CHINO ERROR, ERROR, ERROR, FJJFAFDSFJJACHINOFDFBIAUYKGCHINOADFUH657B  SBUDFG ERROR CHINO "
+Set speech=CreateObject("sapi.spvoice")
+speech.Speak speaks
